@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Matthew Yamamoto",
+    "name": "Matthew Yamamoto (in progress)",
     "label": "Student",
     "picture": "https://github.com/matt-phoenix.png",
     "email": "mnyamamo@hawaii.edu",
@@ -14,11 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Software Engineering" },
+    { "name": "API" },
     { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Artificial Intelligence" }
   ],
   "skills": [
     {
