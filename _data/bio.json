@@ -47,7 +47,7 @@
       "website": "",
       "startDate": "2023-05-16",
       "endDate": "2023-08-12",
-      "summary": "Worker for McDonalds, did several service tasks",
+      "summary": "Crew Member for McDonalds, did several service tasks",
       "highlights": [
         "Maintained a steady stream of customers during high-volume hours.",
         "Quickly multi-tasked between several different orders."
@@ -56,37 +56,16 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "organization": "USA Dance Honolulu",
+      "website": "https://usadance.org/?",
+      "position": "",
       "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "endDate": "2023-08-08",
+      "summary": "Helped facilitate the dance event.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Set up sound hardware to play music",
+        "Acted as DJ for the event."
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ],
   "references": [
