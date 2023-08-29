@@ -4,7 +4,7 @@ type: essay
 title: "With great power... comes an incredible journey"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-27
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
