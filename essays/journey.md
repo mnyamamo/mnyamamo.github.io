@@ -11,6 +11,7 @@ labels:
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/javascript.png">
+
 ## Learning Javascript
 When I first started to learn Javascript, I was amazed. "The power of the sun within the keys of my keyboard," one could say. The power to create a variable without having to specify what variable it would be, and even further, to mix several different types of variables into one array. Coming from languages like C and Java, this was an amazing power. One that could solve many of my problems with object-oriented programming.
 
