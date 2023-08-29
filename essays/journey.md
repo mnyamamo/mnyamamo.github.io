@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "With great power... comes an incredible journey"
+title: "Journey into Javascript: Navigating the hills and cliffs of a new language"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-27
 published: true
