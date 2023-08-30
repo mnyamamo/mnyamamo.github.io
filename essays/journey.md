@@ -8,6 +8,7 @@ published: true
 labels:
   - Software Engineering
   - Learning
+  - Javascript
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/javascript.png">
