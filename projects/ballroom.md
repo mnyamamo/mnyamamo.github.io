@@ -12,6 +12,8 @@ labels:
 summary: "Daytime Ballroom Dancing is an event where the public can come to social dance with others and have fun."
 ---
 
+<img class="img-fluid" src="../img/HolidayDance1.jpeg">
+
 The reason Daytime Ballroom Dancing was started is because people wanted a time to dance and a place to do it, and also to do it with others who also enjoyed dancing.
 
 At the start I just learned how to set the whole event up, but as time went on I was basically in charge of everything, from set up to break down. 
