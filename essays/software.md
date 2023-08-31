@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Journey into Javascript: Navigating the challenges and cautions of a new language"
+title: "Hopes and dreams of software engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
@@ -9,8 +9,6 @@ labels:
   - Software Engineering
   - Learning
 ---
-
-<img width="100px" class="rounded float-start pe-4" src="../img/javascript.png">
 
 Ever since I was young, I've always wanted to create things. At first, it was the arts. Those little projects they have you do in kindergarten that make you look like you're about to become the next Picasso. Then, like any kid whose parents want them to grow up to be the next Mozart, it was music. I learned the piano, learned how to sing, and even how to make my own music, but unfortunately, I had no talent for it. I hardly had direction either, as back then I couldn't even name my favorite genre. Imagine that, a man growing up who couldn't even decide what their favorite music was. I had always had a passing interest in software because my father was a programmer. But although I knew where I wanted to go, I didn't know why I wanted to do it. Honestly, I'm still figuring that part out, even as I go through college. 
 
