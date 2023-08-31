@@ -4,7 +4,7 @@ type: essay
 title: "Journey into Javascript: Navigating the challenges and cautions of a new language"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
