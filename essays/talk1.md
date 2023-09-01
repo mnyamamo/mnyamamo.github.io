@@ -4,6 +4,7 @@ type: essay
 title: "Learning the Development Process"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
+order: 1
 published: true
 labels:
   - ICS Industry Talk Series
