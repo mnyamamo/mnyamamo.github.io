@@ -4,6 +4,7 @@ type: project
 image: img/Ballroom.jpg
 title: "Daytime Ballroom Dancing at the Palladium"
 date: 2023
+order: 1
 published: true
 labels:
   - Dance
