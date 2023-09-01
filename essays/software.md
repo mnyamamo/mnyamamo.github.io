@@ -4,6 +4,7 @@ type: essay
 title: "Hopes and dreams of software engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
+order: 3
 published: true
 labels:
   - Software Engineering
