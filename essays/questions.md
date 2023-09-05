@@ -14,4 +14,6 @@ People ask questions all the time. Why is the sky blue? Can I pet your dog? Is i
 
 ## Smart Questions
 Stack Overflow is a site for people to ask questions and get answers. However, not every question is always good, and often, bad questions get ignored or even downvoted. On the contrary, good questions often get many quality answers.  
+
+in the following example, the user asks about JSON standards and when they should be used. Let's examine why this is a good question, and how it might be better.
 ```
