@@ -4,7 +4,7 @@ type: essay
 title: "Asking smarter questions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
-published: false
+published: true
 labels:
   - Stack Overflow
   - Questions
@@ -19,11 +19,11 @@ in the following example, the user asks about JSON standards and when they shoul
 
 ```
 Q: Which JSON content type do I use?
-There are many standards for the JSON content type:
+There are many standards for the [JSON](http://en.wikipedia.org/wiki/JSON) content type:
 application/json
 application/x-javascript
 text/javascript
 text/x-javascript
 text/x-json
 Which one do I use, and where? I assume security and support issues are a factor.
-Related <url=
+Related [What MIME type if JSON is being returned by a REST API?](https://stackoverflow.com/questions/404470/what-mime-type-if-json-is-being-returned-by-a-rest-api)
