@@ -35,6 +35,11 @@ Although this asker does not directly state what they have searched, they have s
 In contrast, this next example showcases a bad way of asking a question. Let's examine why this is a bad question.
 ```
 Q: How to check if a string is random in Python?
-On social media, people send messages like "cjhdfsjnsnjd", "skhjfvhjdyg", "dpaopdjjjg" to get a laugh. But some people also add swearing to these random messages. I made a discord bot with python to find this, but the program doesn't search for the word as a whole in the sentence, so it can find it even if the person who integrated the swear word into the text of random letters places the letters in different places. But in these normal sentences it combines the scattered characters and recognizes it as a swear word. Is there any function or library in Python that can recognize if the text is random text or a normal sentence?
+On social media, people send messages like "cjhdfsjnsnjd", "skhjfvhjdyg", "dpaopdjjjg" to get a laugh. But some people also add swearing to these random messages. I made a
+discord bot with python to find this, but the program doesn't search for the word as a whole in the sentence, so it can find it even if the person who integrated the swear word
+into the text of random letters places the letters in different places. But in these normal sentences it combines the scattered characters and recognizes it as a swear word. Is
+there any function or library in Python that can recognize if the text is random text or a normal sentence?
 ```
-First of all, the question is not very precise. As one person points out in the comments, "How would you define 'random text'? How would you define 'normal sentence'?" Some people do try to answer the question seriously, but another person points out "What if the messages are Polish or Czech?
+First of all, the question is not very precise. As one person points out in the comments, "How would you define 'random text'? How would you define 'normal sentence'?" Some people do try to answer the question seriously, but another person points out "What if the messages are Polish or Czech? This might appear random to you?" Ultimately, the question is downvoted because people think that this person doesn't really understand what they're asking. 
+
+The person could improve the question by specifying what is random and what is not, but my thoughts are that they are trying to tackle an impossible problem. It is good of them to ask, but they appear to be looking for an easy solution where there is none. 
