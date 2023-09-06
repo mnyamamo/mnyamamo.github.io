@@ -19,14 +19,14 @@ in the following example, the user asks about JSON standards and when they shoul
 
 ```
 Q: Which JSON content type do I use?
-There are many standards for the [JSON](http://en.wikipedia.org/wiki/JSON) content type:
+There are many standards for the JSON content type:
 application/json
 application/x-javascript
 text/javascript
 text/x-javascript
 text/x-json
 Which one do I use, and where? I assume security and support issues are a factor.
-Related [What MIME type if JSON is being returned by a REST API?](https://stackoverflow.com/questions/404470/what-mime-type-if-json-is-being-returned-by-a-rest-api)
+Related: What MIME type if JSON is being returned by a REST API?
 ```
 
 Although this asker does not directly state what they have searched, they have shown that they have done their homework by linking a related question at the bottom. In addition, they list several different standards for the JSON content type. In fact, this question was so good that it recieved 39 different answers, including a recent answer from July 29, 2023. However, following the standards set out in the [paper](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steven Raymond and Rick Moen, it could be improved. The most obvious (and easy) is to thank the people who are going to answer. 
