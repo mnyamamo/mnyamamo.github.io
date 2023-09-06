@@ -27,3 +27,14 @@ text/x-javascript
 text/x-json
 Which one do I use, and where? I assume security and support issues are a factor.
 Related [What MIME type if JSON is being returned by a REST API?](https://stackoverflow.com/questions/404470/what-mime-type-if-json-is-being-returned-by-a-rest-api)
+```
+
+Although this asker does not directly state what they have searched, they have shown that they have done their homework by linking a related question at the bottom. In addition, they list several different standards for the JSON content type. In fact, this question was so good that it recieved 39 different answers, including a recent answer from July 29, 2023. However, following the standards set out in the [paper](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steven Raymond and Rick Moen, it could be improved. The most obvious (and easy) is to thank the people who are going to answer. 
+
+## Bad Questions
+In contrast, this next example showcases a bad way of asking a question. Let's examine why this is a bad question.
+```
+Q: How to check if a string is random in Python?
+On social media, people send messages like "cjhdfsjnsnjd", "skhjfvhjdyg", "dpaopdjjjg" to get a laugh. But some people also add swearing to these random messages. I made a discord bot with python to find this, but the program doesn't search for the word as a whole in the sentence, so it can find it even if the person who integrated the swear word into the text of random letters places the letters in different places. But in these normal sentences it combines the scattered characters and recognizes it as a swear word. Is there any function or library in Python that can recognize if the text is random text or a normal sentence?
+```
+First of all, the question is not very precise. As one person points out in the comments, "How would you define 'random text'? How would you define 'normal sentence'?" Some people do try to answer the question seriously, but another person points out "What if the messages are Polish or Czech?
