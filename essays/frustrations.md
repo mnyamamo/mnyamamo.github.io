@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Pulling yourself up by the Bootstrap(5)"
+title: "Pulling yourself up by the Bootstrap5"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-02
 published: false
