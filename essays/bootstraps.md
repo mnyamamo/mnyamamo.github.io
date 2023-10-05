@@ -11,8 +11,8 @@ labels:
   - HTML
   - Bootstrap 5
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/BootstrapWorld.jpeg">
-Basic webpages are easy, especially with all of the tools around to help. You can just copy the code for a basic HTML file, input some text, and voila, you have created a webpage. Unfortunately for most UI developers, going beyond the basics is anything but easy. Single elements themselves are usually very simple as long as one remembers the syntax. For instance, forgetting that one has to put <li> inside of a <ul> element. However, nesting elements inside of other elements is also possible, and that is where HTML can get very complicated.
+<img class="rounded float-start pe-4" src="../img/BootstrapWorld.jpeg">
+Basic webpages are easy, especially with all of the tools around to help. You can just copy the code for a basic HTML file, input some text, and voila, you have created a webpage. Unfortunately for most UI developers, going beyond the basics is anything but easy. Single elements themselves are usually very simple as long as one remembers the syntax. For instance, forgetting that one has to put <pre><li></pre> inside of a <pre><ul></pre> element. However, nesting elements inside of other elements is also possible, and that is where HTML can get very complicated.
 
 Sure, list elements are easy, but what about putting links inside of them? Or images? Or linked images? Keeping track of all those elements can be very confusing and unfortunately, often creates a lot of syntax problems, up to the point where eyes start swimming as soon as they even look at the code for a webpage. Unfortunately, most webpages don't look good with just HTML. In order to make a webpage look good, some styling is necessary, which is where HTML comes in. 
 
