@@ -11,10 +11,10 @@ labels:
   - HTML
   - Bootstrap 5
 ---
-<img width="50%" height="50%" class="rounded float-start pe-4 border border-secondary" src="../img/BootstrapWorld.jpeg">
+<img width="50%" height="50%" class="float-start pe-4 border border-secondary" src="../img/BootstrapWorld.jpeg">
 Basic webpages are easy, especially with all of the tools around to help. You can just copy the code for a basic HTML file, input some text, and voila, you have created a webpage. Unfortunately for most UI developers, going beyond the basics is anything but easy. Single elements themselves are usually very simple as long as one remembers the syntax. For instance, forgetting that one has to put <li> inside of a ><ul>> element. However, nesting elements inside of other elements is also possible, and that is where HTML can get very complicated.
 
-Sure, list elements are easy, but what about putting links inside of them? Or images? Or linked images? Keeping track of all those elements can be very confusing and unfortunately, often creates a lot of syntax problems, up to the point where eyes start swimming as soon as they even look at the code for a webpage. Unfortunately, most webpages don't look good with just HTML. In order to make a webpage look good, some styling is necessary, which is where HTML comes in. 
+Sure, list elements are simple, but what about putting links inside of them? Or images? Or linked images? Keeping track of all those elements can be very confusing and unfortunately, often creates a lot of syntax problems, up to the point where eyes start swimming as soon as they even look at the code for a webpage. Unfortunately, most webpages don't look good with just HTML. In order to make a webpage look good, some styling is necessary, which is where HTML comes in. 
 
 Like HTML, CSS is relatively simple on its own. Changing the color of some text or the background color of a page isn't that difficult. It's just a few lines of code. It's when combining elements that things get hard. The scope of each change makes CSS difficult to use occassionally. A small change in one area can easily mess up another. In fact, formatting is one of the most difficult parts of CSS, because even adding a single line to an element can easily change the formatting of everything else if a programmer is not careful.
 
