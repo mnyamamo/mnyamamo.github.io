@@ -19,3 +19,4 @@ AI is an incredibly powerful tool in many fields. In education, it can give answ
 My personal experience was that Ai was useful, but only in very specific applications that essentially boiled down into grunt work. The AI often turned my code into a chore in which I had to manually check everything that it was doing instead of writing code, both of which in my mind took almost the same time.
 
 ### Experience WODS 
+I had used ChatGPT at first, when the WODs were relatively simple, but as they became more difficult, the AI would come up with incorrect answers almost all the time. The logic itself was solid, and could be easily followed, but there were many bugs in the code itself.
