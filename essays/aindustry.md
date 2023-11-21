@@ -12,6 +12,18 @@ labels:
   - Github Copilot
 ---
 
+## Table of Contents
+<ul>
+  <li>[Introduction](#introduction)</li>
+  <li>[Personal Experience With AI](#personal-experience-with-ai)</li>
+  <ul>
+    <li>[Experience WODs](#experience-wods)</li>
+    <li>[In-Class Practice WODs](#in-class-practice-wods)</li>
+    <li>[In-Class WODs](#in-class-wods)</li>
+    <li>[Essays](#essays)</li>
+  </ul>
+</ul>
+
 ## Introduction
 
 AI is an incredibly powerful tool in many fields. In education, it can give answers to questions that students may not know, or even give assistance in writing essays. In Software Engineering, it is still a potent tool, but sadly detrimental in many ways. I mainly used two AI tools throughout the semester, ChatGPT and Github Copilot. 
