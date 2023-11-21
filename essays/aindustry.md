@@ -4,10 +4,12 @@ type: essay
 title: "AIndustry"
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
-published: false
+published: true
 labels:
   - Software Engineering
   - AI
+  - ChatGPT
+  - Github Copilot
 ---
 
 ## Introduction
@@ -74,3 +76,21 @@ I cannot recall any other uses which have not been documented previously.
 AI was overall a negative mark in my learning, as it was useful in the beginning, but when the concepts were complicated enough that I had to study to understand them, AI often came up with incorrect answers or broken answers, such as code, in which I would have to spend almost the same amount of time that I would have writing the code as debugging it. It also didn't help with understanding those concepts.
 
 ## Practical Application
+
+Practical Applications do exist, as evidenced by the wealth of AI being used around the world for everything, including identifying cancer cells, but those things are often AI with very limited scopes, while ChatGPT tries to answer almost everything, and does a very good job for general questions, but when it comes down to specific knowledge it often fails. Copilot is better in that regard, but it still doesn't do well when adding packages of code and trying to figure out the syntax of those packages. 
+
+## Challenges and Opportunites
+
+There were many challenges with using AI. It would often give incomplete answers, such as a semicolon missing somewhere or a string not completed. Other times it would give wrong answers, or go a completely different route of thinking than expected, which led to time spent figuring out what it meant. In order to improve, the AI needs more data, from all different types of programming in order to be useful, because it often misses out on simple syntax that it should have noticed.
+
+## Comparative Analysis
+
+If having to choose between traditional teaching methods and AI-enhanced approaches, traditional teaching methods are far superior. AI is not reliable enough to use efficiently. It cannot be argued against by someone without knowledge. However, the possibility of a teacher using it to draft up a lesson plan is practical, because a teacher would know when the AI gets things wrong and is able to correct them. However, teachers cannot rely on AI fully, which is a dangerous possibility if not guarded against.
+
+## Future Considerations
+
+As we have seen with the advancement of AI in the art sector, AI in the software engineering sector will likely improve considerably. However, unlike art, which can often be "good enough" for most people, software engineering demands better error statistics. if an AI writes a whole program and misses 3 semicolons, then the entire build will fail. While humans can correct the errors, in order for AI to be very efficient, it needs to reduce the errors as much as possible, which could possibly be solved by having a larger data set. After all, debugging takes up a lot of time, so it's better if the code works straight out of the box.
+
+## Conclusions
+
+AI in its current state is not good for learning. However, even considering that, it is important that future programmers get their hands on this tool now, if only to learn how to use it properly. Teachers should also learn how to use it to be able to teach students how to use it, because AI has been seen to improve considerably in just a few years, and has the possibility of becoming a large part of a programmer's job in the future. But at this point, AI should not be a tool for learning, only for learning about, because it has a nontrivial possibility of hurting a student's learning.
