@@ -12,11 +12,65 @@ labels:
 
 ## Introduction
 
-AI is an incredibly powerful tool in many fields. In education, it can give answers to questions that students may not know, or even give assistance in writing esssays. In Software Engineering, it is still a potent tool, but sadly detrimental in many ways. I mainly used two AI tools throughout the semester, ChatGPT and Github Copilot. 
+AI is an incredibly powerful tool in many fields. In education, it can give answers to questions that students may not know, or even give assistance in writing essays. In Software Engineering, it is still a potent tool, but sadly detrimental in many ways. I mainly used two AI tools throughout the semester, ChatGPT and Github Copilot. 
 
 ## Personal Experience With AI
 
-My personal experience was that Ai was useful, but only in very specific applications that essentially boiled down into grunt work. The AI often turned my code into a chore in which I had to manually check everything that it was doing instead of writing code, both of which in my mind took almost the same time.
+My personal experience was that AI was useful, but only in particular applications that essentially boiled down into grunt work. The AI often turned my code into a chore in which I had to manually check everything that it was doing instead of writing code, both of which in my mind took almost the same time.
 
-### Experience WODS 
-I had used ChatGPT at first, when the WODs were relatively simple, but as they became more difficult, the AI would come up with incorrect answers almost all the time. The logic itself was solid, and could be easily followed, but there were many bugs in the code itself.
+### Experience WODs
+I had used ChatGPT at first when the WODs were relatively simple, but as they became more difficult, the AI would come up with incorrect answers almost all the time. The logic itself was solid and could be easily followed, but there were many bugs in the code itself. Since the WODs were timed, and there were videos we could watch afterward, it became a detrimental source of learning.
+
+### In-Class Practice WODs
+
+Using ChatGPT was often a waste of time compared to just doing the WOD normally. Copilot was more helpful, however, it would often give incomplete answers and cause bugs in the code that then had to be searched for, wasting time, so it was relegated to figuring out repetitive tasks rather than doing anything important. In fact, I often used its autocomplete to act as a guide rather than a complete piece of code.
+
+### In-Class WODs
+
+I used ChatGPT at the start to explain concepts that I didn't understand, also used it once to write code then found out that code was pretty broken and never used it again for that purpose. I still used Copilot for redundant code pieces though. 
+
+### Essays
+
+I haven't used any AI at all for essays because I don't believe an AI can answer for me. (Though I was tempted to use it for this essay)
+
+### Final Project
+
+I have used Copilot to write redundant code over and over as there was a lot of that in this project, but not for anything else.
+
+### Learning a Concept / Tutorial
+
+AI, like many sources on the internet, cannot be trusted to give factual information. If, like Wikipedia, it gave sources from where it got the information, it might be useful because then we could go to the source, but it doesn't. Books and tutorials on YouTube are often better sources of information than using AI.
+
+### Answering a Question in Class or in Discord
+
+While trying to find answers to questions in class I came across answers that usually sounded wrong somehow, but didn't have the knowledge to dispute it. AI was never even used for Discord because of the necessity to get answers right, or else risk leading people down the wrong path.
+
+### Asking or Answering a Smart-Question
+
+I didn't even think about using AI for this, for the same reason above. When answering a question, people need accurate information, and AI cannot guarantee that.
+
+### Coding Example
+
+I only used official documentation for coding examples because the idea of using AI for this never came to me.
+
+### Explaining Code
+
+I never used AI for this purpose because it didn't come across as an idea. 
+
+### Documenting Code
+
+When it came to most in-class projects there wasn't enough time to document, so using AI to document code was out of the question. However, it may be good as a starting point for the final project. 
+
+### Quality Assurance
+
+I found that when using Copilot it would often produce errors which I had to fix, and so I didn't use it to also fix those errors. I also felt that I would learn more by fixing them myself.
+
+### Other Uses in ICS 314 Not Listed
+
+I cannot recall any other uses which have not been documented previously.
+
+## Impact on Learning and Understanding
+
+AI was overall a negative mark in my learning, as it was useful in the beginning, but when the concepts were complicated enough that I had to study to understand them, AI often came up with incorrect answers or broken answers, such as code, in which I would have to spend almost the same amount of time that I would have writing the code as debugging it. It also didn't help with understanding those concepts.
+
+## Practical Application
