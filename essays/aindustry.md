@@ -14,7 +14,7 @@ labels:
 
 ## Table of Contents
 <ul>
-  <li>I. [Introduction](#introduction)</li>
+  <li>I. * [Introduction](#introduction)</li>
   <li>II. Personal Experience With AI</li>
   <ul>
     <li>1. Experience WODs</li>
