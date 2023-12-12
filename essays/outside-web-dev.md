@@ -4,7 +4,7 @@ type: essay
 title: 
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
-published: false
+published: true
 labels:
   - Software Engineering
 ---
