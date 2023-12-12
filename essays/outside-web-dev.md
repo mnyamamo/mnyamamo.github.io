@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Outside the Box of Web Development
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
 published: true
