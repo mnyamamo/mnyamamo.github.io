@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Harmony in Code: Navigating the Landscape of Coding Standards, Open Source Development, and User Interface Frameworks
+title: 
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
 published: false
