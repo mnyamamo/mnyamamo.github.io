@@ -5,7 +5,7 @@ title: "Journey into Javascript: Navigating the challenges and cautions of a new
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-27
 order: 2
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
