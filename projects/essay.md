@@ -4,7 +4,7 @@ type: project
 image: img/britain.png
 title: "Essay for TIM 314"
 date: 2023
-published: true
+published: false
 labels:
   - Research
   - Learning
