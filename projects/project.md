@@ -12,3 +12,4 @@ labels:
 summary: "My team developed an app for tracking cables in an electrical project."
 ---
 
+In ICS 314, my team and I worked on a program for our final. This program is called CableTrack, an application meant to track cables during electrical engineering work. 
