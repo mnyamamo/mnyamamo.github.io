@@ -20,4 +20,4 @@ My role on this project was to implement the cables. This involved creating the 
 
 While the project was initially difficult, it was thanks to that that I learned a lot from the endeavor. While the most obvious lessons I learned were about how to compartmentalize code to make it easier to both fix and implement, I also learned quite a bit about communication and surprisingly, even a little bit about leadership. Communication was quite important in this project because, without it, we didn't know what another person was doing and would quite often step over someone else's toes. Also, system requirements often weren't communicated effectively so our project had to be rebuilt multiple times, which wasted a lot of time. 
 
-Here is the repository at [Github](https://github.com/ingeniouspartners/cabletrack.pro) and the (organization's page)[https://ingeniouspartners.github.io/].
+Here is the repository at [Github](https://github.com/ingeniouspartners/cabletrack.pro) and the [organization's page](https://ingeniouspartners.github.io/).
