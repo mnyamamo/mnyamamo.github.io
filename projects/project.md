@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ingeniouspartnerslogo.png
 title: "CableTrack"
 date: 2023
 published: false
