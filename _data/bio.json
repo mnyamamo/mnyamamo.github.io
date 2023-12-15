@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Matthew Yamamoto",
+    "label": "Student",
+    "picture": "https://github.com/mnyamamo.png",
+    "email": "mnyamamo@hawaii.edu",
+    "phone": "808-585-1345",
+    "website": "https://mnyamamo.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "mnyamamo", "url": "http://github.com/mnyamamo" },
+      { "network": "linkedin", "username": "matthew-yamamoto-49ba09289", "url": "https://www.linkedin.com/in/matthew-yamamoto-49ba09289/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "API" },
+    { "name": "Quantum Computing" },
+    { "name": "Artificial Intelligence" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "McDonalds",
+      "position": "Crew Member",
+      "website": "",
+      "startDate": "2023-05-16",
+      "endDate": "2023-08-12",
+      "summary": "Crew Member for McDonalds, did several service tasks",
+      "highlights": [
+        "Maintained a steady stream of customers during high-volume hours.",
+        "Quickly multi-tasked between several different orders."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "USA Dance Honolulu",
+      "website": "https://usadance.org/?",
+      "position": "",
+      "startDate": "2023-06-06",
+      "endDate": "2023-08-08",
+      "summary": "Helped facilitate the dance event.",
+      "highlights": [
+        "Set up sound hardware to play music",
+        "Acted as DJ for the event."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
