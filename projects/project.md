@@ -4,7 +4,7 @@ type: project
 image: img/ingeniouspartnerslogo.png
 title: "CableTrack"
 date: 2023
-published: false
+published: true
 labels:
   - Cables
   - Project
