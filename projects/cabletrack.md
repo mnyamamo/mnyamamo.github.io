@@ -12,6 +12,8 @@ labels:
 summary: "My team developed an app for tracking cables in an electrical project."
 ---
 
+
+
 In ICS 314, my team and I worked on a program for our project. This program is called CableTrack, an application meant to track cables during electrical engineering work. It incorporates many things, allowing users to quickly identify which cables were for which company and even which project, granting protection so that unauthorized users cannot see projects, and allowing CEOs to quickly gather information on their projects through the app. 
 
 My role on this project was to implement the cables. This involved creating the data validation for the objects as well as creating the various pages for them, which were add, edit, list, and view. However, I also updated our info page after the project was done and worked on the initial version of the schemas.
