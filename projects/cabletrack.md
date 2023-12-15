@@ -12,7 +12,7 @@ labels:
 summary: "My team developed an app for tracking cables in an electrical project."
 ---
 
-
+<img src="../img/cableProLogo.png">
 
 In ICS 314, my team and I worked on a program for our project. This program is called CableTrack, an application meant to track cables during electrical engineering work. It incorporates many things, allowing users to quickly identify which cables were for which company and even which project, granting protection so that unauthorized users cannot see projects, and allowing CEOs to quickly gather information on their projects through the app. 
 
