@@ -21,4 +21,4 @@ At the start I just learned how to set the whole event up, but as time went on I
 
 I learned a lot, including how to set up the speakers so that the echo was reduced as much as possible, and also how to play the music from them.
 
-To learn more about the event, go to [Dance Fever Oahu](https://www.dancefeveroahu.com).
+To learn more about the event, go to [Dance Fever Oahu](://www.dancefeveroahu.com).
