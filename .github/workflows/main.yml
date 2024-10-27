@@ -20,6 +20,6 @@ jobs:
         with:
           pattern: "\\bio.json$"
       - uses: ./.github/workflows/jekyll.yml   # Choose any one of the Jekyll Actions
-        with:                                # Some relative inputs of your action
-          token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: 'gh-pages'
+        # with:                                # Some relative inputs of your action
+          # token: ${{ secrets.GITHUB_TOKEN }}
+          # target_branch: 'gh-pages'
