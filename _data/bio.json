@@ -6,8 +6,8 @@
     "email": "mnyamamo@hawaii.edu",
     "phone": "808-585-1345",
     "website": "https://mnyamamo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mnyamamo", "url": "http://github.com/mnyamamo" },
       { "network": "linkedin", "username": "matthew-yamamoto-49ba09289", "url": "https://www.linkedin.com/in/matthew-yamamoto-49ba09289/" }
@@ -41,6 +41,18 @@
     }
   ],
   "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Computer Support Specialist",
+      "website": "",
+      "startDate": "2023-09-2023",
+      "endDate": "",
+      "summary": "Computer Support Specialist for the Nagatani Academic Center, built programs",
+      "highlights": [
+        "Built a program that would take in user data and convert it into pdf format for all OSes.",
+        "Made algorithms more efficient and fixed errors in them."
+      ]
+    }
     {
       "company": "McDonalds",
       "position": "Crew Member",
